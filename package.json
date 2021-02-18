@@ -1,0 +1,15 @@
+{
+  "name": "ring",
+  "version": "1.0.0",
+  "description": "my first NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "title":"node index.js"
+  },
+  "author": "seb",
+  "license": "ISC",
+  "dependencies": {
+    "to-title-case": "^1.0.0"
+  }
+}
